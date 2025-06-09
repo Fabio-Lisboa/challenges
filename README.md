@@ -11,3 +11,5 @@ Pense nele como seu acervo pessoal de desafios resolvidos. Para cada problema, v
 # Questões
 
 ## Leetcode
+
+1. [Palindrome Number](Leetcode/1. palindrome-number)
